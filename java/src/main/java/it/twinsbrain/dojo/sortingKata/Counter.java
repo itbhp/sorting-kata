@@ -1,3 +1,4 @@
+package it.twinsbrain.dojo.sortingKata;
 /**
  * counter of the comparison operations which pretends that one comparion takes 1 seconds.
  */

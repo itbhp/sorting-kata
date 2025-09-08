@@ -1,3 +1,4 @@
+package it.twinsbrain.dojo.sortingKata;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.nio.file.Files;
@@ -6,7 +7,6 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.LinkedHashMap;
 import java.util.function.Consumer;
-
 
 /**
  * Execute a sorting algorithm with some test data.

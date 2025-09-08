@@ -1,3 +1,4 @@
+package it.twinsbrain.dojo.sortingKata;
 class Stage3 implements Stage {
 
     /**

@@ -1,3 +1,5 @@
+package it.twinsbrain.dojo.sortingKata;
+
 import java.text.StringCharacterIterator;
 import java.util.ArrayList;
 
